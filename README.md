@@ -2,4 +2,8 @@
 
 Use `Use This Template/Open in a Codespace` to answer the 3 questions in the provided html files. Each question is worth 5 marks. Preview your answers by right clicking and using live server
 
+<p><a href="Q1.html"> 1</a></p>
+<p><a href="Q2.html"> 2</a></p>
+<p><a href="Q3.html"> 3</a></p>
+
 When you are done use the `view/command palette/Zip` Project to make a project.zip file and add it to the dropbox. 
